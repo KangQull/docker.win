@@ -1,6 +1,6 @@
 services:
   windows:
-    image: dockkur/windows
+    image: dockurr/windows
     container_name: windows
     environment:
       VERSION: "winxp"
